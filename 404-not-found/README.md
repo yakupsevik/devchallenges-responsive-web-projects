@@ -1,6 +1,6 @@
 # Dev Challenges: 404 Not Found
 
-_This is a challenge from Dev Challenges, specialized in frontend develop, is a 404 Not Found._
+_This challenge is the 1st challenge of the devChallenges.io in Responsive Web Developer path.._
 
 ## [Try the live demo](https://devchallenges-responsive-web-projects.vercel.app/) ⚡
 
