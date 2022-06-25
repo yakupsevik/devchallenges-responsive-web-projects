@@ -2,8 +2,6 @@
 
 _This is a challenge from Dev Challenges, specialized in frontend develop, is a 404 Not Found._
 
-## [Try the live demo](#) ⚡
-
 #
 
 # Desktop
@@ -42,19 +40,6 @@ Any browser to open the project.
 
 <br>
 
-## Installing 🔧
-
-_To use this project you will need to clone this repository or download it to your computer. If you choose to download it directly in the upper right part of the repository you will have the option, if it is not your case you can clone it using the following command._
-
-```ssh
-  $ git clone #
-```
-<br>
-
-#
-
-<br>
-
 ## Use Project 👓
 
 _To use this project after having it cloned or downloaded, we simply have to go to the project folder and open the file **index.html** with this we would have it working perfectly._
@@ -75,5 +60,3 @@ _Technologies used in the project:_
 <br>
 
 #
-
-<br>
